@@ -1,0 +1,15 @@
+ul#ul1-id li{
+
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    color: rgb(71, 8, 245);
+}
+ul#ul2-id li{
+    background:green;
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    color: rgb(77, 10, 233);
+}
